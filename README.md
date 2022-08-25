@@ -1,12 +1,12 @@
 # solana-summer-hack
 
 
-No-code point-of-sale system targeting SMBs.
+##No-code point-of-sale system targeting SMBs.
 If you are running a small retail store, a medium grocery store or a big restaurant then you will be involved in a lots of marketing, management, and administration tasks. A point-of-sale (POS) system not only gets you through the day-to-day operations but also helps propel you into the future. It helps make you daily transaction seamless leaving you to focus on profit making.
 
 POS(Point-of-Sale) systems have become common and a must in the retail business, wholesale, hospitality industry and any other business(es) were products or services or both are exchanged for cash. The global market for POS has been predicted to grow times ten its current state in the coming years due to its acceptance and increase in its demand. Once expensive and only fit for large enterprises, POS solutions today come in various shape, form, and flavor. And easy to customize.to fit any business need.
 
-About The  Point-of-Sale system.
+##About The  Point-of-Sale system.
 What is a POS system
 The POS is a lot more than just a smart cash register. A Point-of-Sale system is a set of software and hardware for merchants to handle sales, process returns, and tally the daily revenue. And it has a lot more more features – from inventory management, financials, to warehousing. It also streamlines online sales with eCommerce integrations. Most importantly, it gives valuable business insights. It's advantages are numerous.
 
@@ -26,7 +26,7 @@ D. Small business POS solutions come in many sizes and shapes. Most of the small
  Salon and Spa POS software requires a particular set of industry-specific features like online appointment calendar, reminders, etc
 Pharmacy and Hospitals POS software requires set of specific features like if the patient is on discount or not.
 
-#Onboarding
+##Onboarding
 Onboarding is the process of making active clients out of users of your product or service. For a company to be able to win new clients, its onboarding process must be top-notch. The same principles guide the various onboarding processes across the board but an emphasis on cryptocurrency is necessary because of its uniqueness.
 
 The typically complicated nature of cryptocurrency and blockchain is a turn-off for many and has slowed adoption. Despite the now-growing popularity of digital currencies, many still don’t know how they work because of the complex nature of cryptocurrency and blockchain.
@@ -75,5 +75,5 @@ And yes, it still works. But as mentioned earlier, keep things simple and short.
 Selling Points
 Structure your selling point about how making use of the Solana gateway would help the merchants. No one really wants to know what your product can do if its features won’t eventually be of help to them.
 
-#Conclusion
+##Conclusion
 Many make the mistake that onboarding ends when a merchant signs up for a paid subscription of the product. That is somewhat true, but ignoring everything after that is a disaster. Even after signing up, onboarding still continues and you owe them good treatment because a satisfied customer will always refer others. 
